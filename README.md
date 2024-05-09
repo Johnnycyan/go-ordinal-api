@@ -5,7 +5,7 @@
     <h1 align="center">GO-ORDINAL-API</h1>
 </p>
 <p align="center">
-    <em>Format numbers with flair, code made clear!</em>
+    <em>Empower your numbers with a touch of humanity.</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/Johnnycyan/go-ordinal-api?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
