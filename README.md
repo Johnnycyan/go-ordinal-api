@@ -51,6 +51,6 @@ The go-ordinal-api project serves as a reliable API for formatting and humanizin
 > ```
 Endpoint      |     URL
 ------------- | -------------
-Format  | `localhost:8026/?num=<number-to-format>&hum=<true|false>`
+Format  | <code>localhost:8026/?num=\<number-to-format>&hum=\<true\|false></code>
 
 ---
